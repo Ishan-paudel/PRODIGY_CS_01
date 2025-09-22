@@ -69,8 +69,7 @@ caesar\_cipher\_app/
 │   └── index.html         \# Frontend HTML template
 └── app.py                 \# Backend Python code (Flask app)
 
-```
 
 ## License
 This project is open-sourced under the MIT License.
-```
+
